@@ -1,4 +1,4 @@
-Dental-Clinic-Management
+***private clinics
 ===
 
 **Problem**
