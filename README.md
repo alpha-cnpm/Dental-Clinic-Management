@@ -1,15 +1,15 @@
-***private clinics
+*private clinics*
 ===
 
 **Problem**
 -----------
-In some small and medium dental clinics, the number of patients (clients) is increasing, to serve customers and manage clinics better, more accurately and quickly. Since then, the clinics systematized management processes. Especially the management of billing statistics and patients. Because manual management has many limitations: operation takes a lot of time, inaccuracy, storing information and statistics are difficult, ...
+In some small and medium private clinics, the number of patients (clients) is increasing, to serve customers and manage patiens better, more accurately and quickly. Since then, the clinics systematized management processes. Especially the management of billing statistics and patients. Because manual management has many limitations: operation takes a lot of time, inaccuracy, storing information and statistics are difficult, ...
 
 
 
 **Solution**
 ------------
-Use Dental Clinic Management Software
+Use private clinics Management Software
 
 
 
@@ -18,17 +18,15 @@ Use Dental Clinic Management Software
 
 * Manage Customer Types
 
-* Manage Human Resources
+* Patiens lookup
 
-* Manage Appointments, Follow-up Examination
+* Treatment manangement
 
-* Manage Treatment History
+* Payment 
 
-* Manage Bill List Per Customer
+* Manage Bill List each Month
 
-* Manage Treating Products, Materials
-
-* Manage Function Rooms
+* Changing regulations
 
 
 
