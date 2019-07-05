@@ -1,4 +1,4 @@
-*private clinics*
+*Private Clinics*
 ===
 
 **Problem**
@@ -9,24 +9,24 @@ In some small and medium private clinics, the number of patients (clients) is in
 
 **Solution**
 ------------
-Use private clinics Management Software
+Use Private Clinics Management Software
 
 
 
 **Feature**
-------------
+-----------
 
 * Manage Customer Types
 
-* Patiens lookup
+* Patiens Lookup
 
-* Treatment manangement
+* Treatment Manangement
 
 * Payment 
 
 * Manage Bill List each Month
 
-* Changing regulations
+* Changing Regulations
 
 
 
