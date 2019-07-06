@@ -3,6 +3,7 @@ USE [master]
 GO
 
 WHILE EXISTS(select NULL from sys.databases where name='QLPM')
+BEGIN
     DECLARE @SQL varchar(max)
     SELECT @SQL = COALESCE(@SQL,'') + 'Kill ' + Convert(varchar, SPId) + ';'
     FROM MASTER..SysProcesses
@@ -30,7 +31,7 @@ CREATE TABLE [dbo].[tblBenhNhan]
 	[DiaChi] nvarchar(100) not null
 	
 )
-CREATE TABLE [dbo].[CachDung]
+CREATE TABLE [dbo].[tblCachDung]
 (	
 	[IDCD] nvarchar(10) NOT NULL primary key,	
 	[NoiDungCD] nvarchar(50) NULL
@@ -61,19 +62,20 @@ CREATE TABLE [dbo].[tblPhieuKhamBenh]
 (	
 	[MaPKB] nvarchar(10) NOT NULL PRIMARY KEY,	
 	[MaBN] nvarchar(10) not NULL,			
-	[MaLB] nvarchar(10)  null,
-	[MaThuoc] nvarchar(10)  null,
+	[MaLB] nvarchar(10) not null,
+	[MaThuoc] nvarchar(10) not  null,
 	[IDCD] nvarchar(10) not null,
 	[TienTong] int null,
 	[TrieuChung] nvarchar(50) null,
 	[SoLuong] int null,
-	[TienKham] int null,
+	[TienKham] int not  null,
+	
 	[NgayKham] smalldatetime not null
 	foreign key (MaBN) references tblBenhNhan(MaBN),
 	FOREIGN KEY (MaLB) REFERENCES tblLoaiBenh(MaLB),
 	foreign key (TienKham) references tblTienKham(TienKham),
 	foreign key (MaThuoc) references tblThuoc(MaThuoc),
-	foreign key (IDCD) references tblCachDung(CachDung),
+	foreign key (IDCD) references tblCachDung(IDCD)
 
 
 

@@ -1,0 +1,390 @@
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLPM_GUI.csprojAssemblyReference.cache
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.SuaThongTinBanhNhan.resources
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.Mainfrm.resources
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.Properties.Resources.resources
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.TiepNhanBenhNhanfrm.resources
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLPM_GUI.csproj.GenerateResource.cache
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.exe.licenses
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLPM_GUI.csproj.CoreCompileInputs.cache
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.exe
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.pdb
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\QLDL.exe.config
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\QLDL.exe
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\QLDL.pdb
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\HoSoDaiLyBUS.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\HoSoDaiLyDTO.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\QLDL_DAL01.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.XtraBars.v18.1.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.XtraTreeList.v18.1.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.XtraLayout.v18.1.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.Office.v18.1.Core.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.Images.v18.1.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\HoSoDaiLyBUS.pdb
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\HoSoDaiLyBUS.dll.config
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\HoSoDaiLyDTO.pdb
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\HoSoDaiLyDTO.dll.config
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.XtraGauges.v18.1.Core.xml
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.XtraGauges.v18.1.Win.xml
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.XtraPrinting.v18.1.xml
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\QLDL_DAL01.pdb
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\QLDL_DAL01.dll.config
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.XtraBars.v18.1.xml
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.XtraTreeList.v18.1.xml
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.XtraLayout.v18.1.xml
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.Office.v18.1.Core.xml
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\de\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\es\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\ja\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\ru\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\de\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\es\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\de\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\es\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\de\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\es\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\ja\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\ru\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.Quanlyhosobenhnhan.resources
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLPM_GUI.csproj.CopyComplete
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\QLDL.exe.config
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\QLDL.exe
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\QLDL.pdb
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\HoSoDaiLyBUS.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\HoSoDaiLyDTO.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\QLDL_DAL01.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.XtraBars.v18.1.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.XtraTreeList.v18.1.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.XtraLayout.v18.1.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.Office.v18.1.Core.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.Images.v18.1.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\HoSoDaiLyBUS.pdb
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\HoSoDaiLyBUS.dll.config
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\HoSoDaiLyDTO.pdb
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\HoSoDaiLyDTO.dll.config
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.XtraGauges.v18.1.Core.xml
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.XtraGauges.v18.1.Win.xml
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.XtraPrinting.v18.1.xml
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\QLDL_DAL01.pdb
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\QLDL_DAL01.dll.config
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.XtraBars.v18.1.xml
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.XtraTreeList.v18.1.xml
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.XtraLayout.v18.1.xml
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.Office.v18.1.Core.xml
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\de\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\es\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\ja\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\ru\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\de\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\es\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\de\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\es\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\de\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\es\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\ja\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\ru\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLPM_GUI.csprojAssemblyReference.cache
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.Properties.Resources.resources
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLPM_GUI.csproj.GenerateResource.cache
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.exe.licenses
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLPM_GUI.csproj.CoreCompileInputs.cache
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLPM_GUI.csproj.CopyComplete
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.exe
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.pdb
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.DangNhapfrm.resources
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.DanhSachfrm.resources
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.KhamBenhfrm.resources
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.LapPhieuKhamfrm.resources
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.QuanLyfrm.resources
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.TiepNhanfrm.resources
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLPM_GUI.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.DangNhapfrm.resources
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.DanhSachfrm.resources
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.KhamBenhfrm.resources
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.LapPhieuKhamfrm.resources
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.Properties.Resources.resources
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.QuanLyfrm.resources
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.TiepNhanfrm.resources
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLPM_GUI.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.exe.licenses
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLPM_GUI.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\QLDL.exe.config
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\QLDL.exe
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\QLDL.pdb
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.XtraGauges.v18.1.Core.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.XtraGauges.v18.1.Win.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.XtraPrinting.v18.1.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\HoSoDaiLyBUS.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\HoSoDaiLyDTO.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\QLDL_DAL01.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.XtraBars.v18.1.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.XtraTreeList.v18.1.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.XtraLayout.v18.1.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.Office.v18.1.Core.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.Images.v18.1.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\HoSoDaiLyBUS.pdb
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\HoSoDaiLyBUS.dll.config
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\HoSoDaiLyDTO.pdb
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\HoSoDaiLyDTO.dll.config
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.XtraGauges.v18.1.Core.xml
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.XtraGauges.v18.1.Win.xml
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.XtraPrinting.v18.1.xml
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\QLDL_DAL01.pdb
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\QLDL_DAL01.dll.config
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.XtraBars.v18.1.xml
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.XtraTreeList.v18.1.xml
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.XtraLayout.v18.1.xml
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\DevExpress.Office.v18.1.Core.xml
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\de\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\es\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\ja\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\ru\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\de\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\es\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\de\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\es\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\de\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\es\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\ja\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\ru\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLPM_GUI.csproj.CopyComplete
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.exe
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.pdb
+C:\Users\DONG ANH\Desktop\PROJECT\SOURCE CODE\QLDL\bin\Debug\QLDL.exe.config
+C:\Users\DONG ANH\Desktop\PROJECT\SOURCE CODE\QLDL\bin\Debug\QLDL.exe
+C:\Users\DONG ANH\Desktop\PROJECT\SOURCE CODE\QLDL\bin\Debug\QLDL.pdb
+C:\Users\DONG ANH\Desktop\PROJECT\SOURCE CODE\QLDL\bin\Debug\HoSoDaiLyBUS.dll
+C:\Users\DONG ANH\Desktop\PROJECT\SOURCE CODE\QLDL\bin\Debug\HoSoDaiLyDTO.dll
+C:\Users\DONG ANH\Desktop\PROJECT\SOURCE CODE\QLDL\bin\Debug\QLDL_DAL01.dll
+C:\Users\DONG ANH\Desktop\PROJECT\SOURCE CODE\QLDL\bin\Debug\HoSoDaiLyBUS.pdb
+C:\Users\DONG ANH\Desktop\PROJECT\SOURCE CODE\QLDL\bin\Debug\HoSoDaiLyBUS.dll.config
+C:\Users\DONG ANH\Desktop\PROJECT\SOURCE CODE\QLDL\bin\Debug\HoSoDaiLyDTO.pdb
+C:\Users\DONG ANH\Desktop\PROJECT\SOURCE CODE\QLDL\bin\Debug\HoSoDaiLyDTO.dll.config
+C:\Users\DONG ANH\Desktop\PROJECT\SOURCE CODE\QLDL\bin\Debug\QLDL_DAL01.pdb
+C:\Users\DONG ANH\Desktop\PROJECT\SOURCE CODE\QLDL\bin\Debug\QLDL_DAL01.dll.config
+C:\Users\DONG ANH\Desktop\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLPM_GUI.csprojAssemblyReference.cache
+C:\Users\DONG ANH\Desktop\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.DangNhapfrm.resources
+C:\Users\DONG ANH\Desktop\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.DanhSachfrm.resources
+C:\Users\DONG ANH\Desktop\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.KhamBenhfrm.resources
+C:\Users\DONG ANH\Desktop\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.LapPhieuKhamfrm.resources
+C:\Users\DONG ANH\Desktop\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.Properties.Resources.resources
+C:\Users\DONG ANH\Desktop\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.QuanLyfrm.resources
+C:\Users\DONG ANH\Desktop\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.TiepNhanfrm.resources
+C:\Users\DONG ANH\Desktop\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLPM_GUI.csproj.GenerateResource.cache
+C:\Users\DONG ANH\Desktop\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.exe.licenses
+C:\Users\DONG ANH\Desktop\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLPM_GUI.csproj.CoreCompileInputs.cache
+C:\Users\DONG ANH\Desktop\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLPM_GUI.csproj.CopyComplete
+C:\Users\DONG ANH\Desktop\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.exe
+C:\Users\DONG ANH\Desktop\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.pdb
+C:\Users\DONG ANH\Desktop\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.Quan_ly.QL_Thuoc.QuanLyThuoc.resources
+C:\Users\TrieuDev\Desktop\New folder\PROJECT\SOURCE CODE\QLDL\bin\Debug\QLDL.exe.config
+C:\Users\TrieuDev\Desktop\New folder\PROJECT\SOURCE CODE\QLDL\bin\Debug\QLDL.exe
+C:\Users\TrieuDev\Desktop\New folder\PROJECT\SOURCE CODE\QLDL\bin\Debug\QLDL.pdb
+C:\Users\TrieuDev\Desktop\New folder\PROJECT\SOURCE CODE\QLDL\bin\Debug\HoSoDaiLyBUS.dll
+C:\Users\TrieuDev\Desktop\New folder\PROJECT\SOURCE CODE\QLDL\bin\Debug\HoSoDaiLyDTO.dll
+C:\Users\TrieuDev\Desktop\New folder\PROJECT\SOURCE CODE\QLDL\bin\Debug\QLDL_DAL01.dll
+C:\Users\TrieuDev\Desktop\New folder\PROJECT\SOURCE CODE\QLDL\bin\Debug\HoSoDaiLyBUS.pdb
+C:\Users\TrieuDev\Desktop\New folder\PROJECT\SOURCE CODE\QLDL\bin\Debug\HoSoDaiLyBUS.dll.config
+C:\Users\TrieuDev\Desktop\New folder\PROJECT\SOURCE CODE\QLDL\bin\Debug\HoSoDaiLyDTO.pdb
+C:\Users\TrieuDev\Desktop\New folder\PROJECT\SOURCE CODE\QLDL\bin\Debug\HoSoDaiLyDTO.dll.config
+C:\Users\TrieuDev\Desktop\New folder\PROJECT\SOURCE CODE\QLDL\bin\Debug\QLDL_DAL01.pdb
+C:\Users\TrieuDev\Desktop\New folder\PROJECT\SOURCE CODE\QLDL\bin\Debug\QLDL_DAL01.dll.config
+C:\Users\TrieuDev\Desktop\New folder\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLPM_GUI.csprojAssemblyReference.cache
+C:\Users\TrieuDev\Desktop\New folder\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.DangNhapfrm.resources
+C:\Users\TrieuDev\Desktop\New folder\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.DanhSachfrm.resources
+C:\Users\TrieuDev\Desktop\New folder\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.KhamBenhfrm.resources
+C:\Users\TrieuDev\Desktop\New folder\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.LapPhieuKhamfrm.resources
+C:\Users\TrieuDev\Desktop\New folder\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.Properties.Resources.resources
+C:\Users\TrieuDev\Desktop\New folder\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.QuanLyfrm.resources
+C:\Users\TrieuDev\Desktop\New folder\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.TiepNhanfrm.resources
+C:\Users\TrieuDev\Desktop\New folder\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLPM_GUI.csproj.GenerateResource.cache
+C:\Users\TrieuDev\Desktop\New folder\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.exe.licenses
+C:\Users\TrieuDev\Desktop\New folder\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLPM_GUI.csproj.CoreCompileInputs.cache
+C:\Users\TrieuDev\Desktop\New folder\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLPM_GUI.csproj.CopyComplete
+C:\Users\TrieuDev\Desktop\New folder\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.exe
+C:\Users\TrieuDev\Desktop\New folder\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.pdb
+C:\Users\TrieuDev\Desktop\New folder\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.QLThuocfrm.resources
+C:\Users\DONG ANH\Desktop\moi\New folder\PROJECT\SOURCE CODE\QLDL\bin\Debug\QLDL.exe.config
+C:\Users\DONG ANH\Desktop\moi\New folder\PROJECT\SOURCE CODE\QLDL\bin\Debug\QLDL.exe
+C:\Users\DONG ANH\Desktop\moi\New folder\PROJECT\SOURCE CODE\QLDL\bin\Debug\QLDL.pdb
+C:\Users\DONG ANH\Desktop\moi\New folder\PROJECT\SOURCE CODE\QLDL\bin\Debug\HoSoDaiLyBUS.dll
+C:\Users\DONG ANH\Desktop\moi\New folder\PROJECT\SOURCE CODE\QLDL\bin\Debug\HoSoDaiLyDTO.dll
+C:\Users\DONG ANH\Desktop\moi\New folder\PROJECT\SOURCE CODE\QLDL\bin\Debug\QLDL_DAL01.dll
+C:\Users\DONG ANH\Desktop\moi\New folder\PROJECT\SOURCE CODE\QLDL\bin\Debug\HoSoDaiLyBUS.pdb
+C:\Users\DONG ANH\Desktop\moi\New folder\PROJECT\SOURCE CODE\QLDL\bin\Debug\HoSoDaiLyBUS.dll.config
+C:\Users\DONG ANH\Desktop\moi\New folder\PROJECT\SOURCE CODE\QLDL\bin\Debug\HoSoDaiLyDTO.pdb
+C:\Users\DONG ANH\Desktop\moi\New folder\PROJECT\SOURCE CODE\QLDL\bin\Debug\HoSoDaiLyDTO.dll.config
+C:\Users\DONG ANH\Desktop\moi\New folder\PROJECT\SOURCE CODE\QLDL\bin\Debug\QLDL_DAL01.pdb
+C:\Users\DONG ANH\Desktop\moi\New folder\PROJECT\SOURCE CODE\QLDL\bin\Debug\QLDL_DAL01.dll.config
+C:\Users\DONG ANH\Desktop\moi\New folder\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLPM_GUI.csprojAssemblyReference.cache
+C:\Users\DONG ANH\Desktop\moi\New folder\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.DangNhapfrm.resources
+C:\Users\DONG ANH\Desktop\moi\New folder\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.DanhSachfrm.resources
+C:\Users\DONG ANH\Desktop\moi\New folder\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.KhamBenhfrm.resources
+C:\Users\DONG ANH\Desktop\moi\New folder\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.LapPhieuKhamfrm.resources
+C:\Users\DONG ANH\Desktop\moi\New folder\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.Properties.Resources.resources
+C:\Users\DONG ANH\Desktop\moi\New folder\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.QLThuocfrm.resources
+C:\Users\DONG ANH\Desktop\moi\New folder\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.QuanLyfrm.resources
+C:\Users\DONG ANH\Desktop\moi\New folder\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.TiepNhanfrm.resources
+C:\Users\DONG ANH\Desktop\moi\New folder\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLPM_GUI.csproj.GenerateResource.cache
+C:\Users\DONG ANH\Desktop\moi\New folder\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.exe.licenses
+C:\Users\DONG ANH\Desktop\moi\New folder\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLPM_GUI.csproj.CoreCompileInputs.cache
+C:\Users\DONG ANH\Desktop\moi\New folder\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLPM_GUI.csproj.CopyComplete
+C:\Users\DONG ANH\Desktop\moi\New folder\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.exe
+C:\Users\DONG ANH\Desktop\moi\New folder\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.pdb
+C:\Users\DONG ANH\Desktop\moi\New folder\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.HoaDonfrm.resources
+C:\Users\DONG ANH\Desktop\moi\New folder\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.DanhSachHoaDonfrm.resources
+C:\Users\DONG ANH\Desktop\moi\New folder\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.Quan_ly.Báo_Cáo.BaoCaoDoanhThufrm.resources
+C:\Users\DONG ANH\Desktop\moi\New folder\PROJECT\SOURCE CODE\QLDL\obj\Debug\QLDL.Quan_ly.Báo_Cáo.BaoCaoSuDungThuocfrm.resources

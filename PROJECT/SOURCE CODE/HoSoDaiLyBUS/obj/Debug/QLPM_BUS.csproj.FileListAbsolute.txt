@@ -1,0 +1,88 @@
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\HoSoDaiLyBUS.dll.config
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\HoSoDaiLyBUS.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\HoSoDaiLyBUS.pdb
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\HoSoDaiLyDTO.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\QLDL_DAL01.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\HoSoDaiLyDTO.pdb
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\HoSoDaiLyDTO.dll.config
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\QLDL_DAL01.pdb
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\QLDL_DAL01.dll.config
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\HoSoDaiLyBUS\obj\Debug\QLPM_BUS.csprojAssemblyReference.cache
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\HoSoDaiLyBUS\obj\Debug\QLPM_BUS.csproj.CoreCompileInputs.cache
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\HoSoDaiLyBUS\obj\Debug\QLPM_BUS.csproj.CopyComplete
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\HoSoDaiLyBUS\obj\Debug\HoSoDaiLyBUS.dll
+C:\Users\hvtan\OneDrive\Desktop\lll\PROJECT\PROJECT\SOURCE CODE\HoSoDaiLyBUS\obj\Debug\HoSoDaiLyBUS.pdb
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\HoSoDaiLyBUS.dll.config
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\HoSoDaiLyBUS.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\HoSoDaiLyBUS.pdb
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\HoSoDaiLyDTO.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\QLDL_DAL01.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\HoSoDaiLyDTO.pdb
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\HoSoDaiLyDTO.dll.config
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\QLDL_DAL01.pdb
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\QLDL_DAL01.dll.config
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\HoSoDaiLyBUS\obj\Debug\QLPM_BUS.csprojAssemblyReference.cache
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\HoSoDaiLyBUS\obj\Debug\QLPM_BUS.csproj.CoreCompileInputs.cache
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\HoSoDaiLyBUS\obj\Debug\QLPM_BUS.csproj.CopyComplete
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\HoSoDaiLyBUS\obj\Debug\HoSoDaiLyBUS.dll
+C:\Users\DONG ANH\Downloads\PROJECT\SOURCE CODE\HoSoDaiLyBUS\obj\Debug\HoSoDaiLyBUS.pdb
+C:\Users\TrieuDev\Desktop\QLPhongmach\PROJECT\SOURCE CODE\HoSoDaiLyBUS\obj\Debug\QLPM_BUS.csprojAssemblyReference.cache
+C:\Users\TrieuDev\Desktop\QLPhongmach\PROJECT\SOURCE CODE\HoSoDaiLyBUS\obj\Debug\QLPM_BUS.csproj.CoreCompileInputs.cache
+C:\Users\TrieuDev\Desktop\QLPhongmach\PROJECT\SOURCE CODE\HoSoDaiLyBUS\obj\Debug\HoSoDaiLyBUS.dll
+C:\Users\TrieuDev\Desktop\QLPhongmach\PROJECT\SOURCE CODE\HoSoDaiLyBUS\obj\Debug\HoSoDaiLyBUS.pdb
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\HoSoDaiLyBUS.dll.config
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\HoSoDaiLyBUS.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\HoSoDaiLyBUS.pdb
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\HoSoDaiLyDTO.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\QLDL_DAL01.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\HoSoDaiLyDTO.pdb
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\HoSoDaiLyDTO.dll.config
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\QLDL_DAL01.pdb
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\QLDL_DAL01.dll.config
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\HoSoDaiLyBUS\obj\Debug\QLPM_BUS.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\HoSoDaiLyBUS\obj\Debug\QLPM_BUS.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\HoSoDaiLyBUS\obj\Debug\QLPM_BUS.csproj.CopyComplete
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\HoSoDaiLyBUS\obj\Debug\HoSoDaiLyBUS.dll
+C:\Users\ASUS\Desktop\PROJECT (3)\PROJECT\SOURCE CODE\HoSoDaiLyBUS\obj\Debug\HoSoDaiLyBUS.pdb
+C:\Users\DONG ANH\Desktop\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\HoSoDaiLyBUS.dll.config
+C:\Users\DONG ANH\Desktop\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\HoSoDaiLyBUS.dll
+C:\Users\DONG ANH\Desktop\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\HoSoDaiLyBUS.pdb
+C:\Users\DONG ANH\Desktop\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\HoSoDaiLyDTO.dll
+C:\Users\DONG ANH\Desktop\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\QLDL_DAL01.dll
+C:\Users\DONG ANH\Desktop\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\HoSoDaiLyDTO.pdb
+C:\Users\DONG ANH\Desktop\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\HoSoDaiLyDTO.dll.config
+C:\Users\DONG ANH\Desktop\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\QLDL_DAL01.pdb
+C:\Users\DONG ANH\Desktop\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\QLDL_DAL01.dll.config
+C:\Users\DONG ANH\Desktop\PROJECT\SOURCE CODE\HoSoDaiLyBUS\obj\Debug\QLPM_BUS.csprojAssemblyReference.cache
+C:\Users\DONG ANH\Desktop\PROJECT\SOURCE CODE\HoSoDaiLyBUS\obj\Debug\QLPM_BUS.csproj.CoreCompileInputs.cache
+C:\Users\DONG ANH\Desktop\PROJECT\SOURCE CODE\HoSoDaiLyBUS\obj\Debug\QLPM_BUS.csproj.CopyComplete
+C:\Users\DONG ANH\Desktop\PROJECT\SOURCE CODE\HoSoDaiLyBUS\obj\Debug\HoSoDaiLyBUS.dll
+C:\Users\DONG ANH\Desktop\PROJECT\SOURCE CODE\HoSoDaiLyBUS\obj\Debug\HoSoDaiLyBUS.pdb
+C:\Users\TrieuDev\Desktop\New folder\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\HoSoDaiLyBUS.dll.config
+C:\Users\TrieuDev\Desktop\New folder\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\HoSoDaiLyBUS.dll
+C:\Users\TrieuDev\Desktop\New folder\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\HoSoDaiLyBUS.pdb
+C:\Users\TrieuDev\Desktop\New folder\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\HoSoDaiLyDTO.dll
+C:\Users\TrieuDev\Desktop\New folder\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\QLDL_DAL01.dll
+C:\Users\TrieuDev\Desktop\New folder\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\HoSoDaiLyDTO.pdb
+C:\Users\TrieuDev\Desktop\New folder\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\HoSoDaiLyDTO.dll.config
+C:\Users\TrieuDev\Desktop\New folder\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\QLDL_DAL01.pdb
+C:\Users\TrieuDev\Desktop\New folder\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\QLDL_DAL01.dll.config
+C:\Users\TrieuDev\Desktop\New folder\PROJECT\SOURCE CODE\HoSoDaiLyBUS\obj\Debug\QLPM_BUS.csprojAssemblyReference.cache
+C:\Users\TrieuDev\Desktop\New folder\PROJECT\SOURCE CODE\HoSoDaiLyBUS\obj\Debug\QLPM_BUS.csproj.CoreCompileInputs.cache
+C:\Users\TrieuDev\Desktop\New folder\PROJECT\SOURCE CODE\HoSoDaiLyBUS\obj\Debug\QLPM_BUS.csproj.CopyComplete
+C:\Users\TrieuDev\Desktop\New folder\PROJECT\SOURCE CODE\HoSoDaiLyBUS\obj\Debug\HoSoDaiLyBUS.dll
+C:\Users\TrieuDev\Desktop\New folder\PROJECT\SOURCE CODE\HoSoDaiLyBUS\obj\Debug\HoSoDaiLyBUS.pdb
+C:\Users\DONG ANH\Desktop\moi\New folder\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\HoSoDaiLyBUS.dll.config
+C:\Users\DONG ANH\Desktop\moi\New folder\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\HoSoDaiLyBUS.dll
+C:\Users\DONG ANH\Desktop\moi\New folder\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\HoSoDaiLyBUS.pdb
+C:\Users\DONG ANH\Desktop\moi\New folder\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\HoSoDaiLyDTO.dll
+C:\Users\DONG ANH\Desktop\moi\New folder\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\QLDL_DAL01.dll
+C:\Users\DONG ANH\Desktop\moi\New folder\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\HoSoDaiLyDTO.pdb
+C:\Users\DONG ANH\Desktop\moi\New folder\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\HoSoDaiLyDTO.dll.config
+C:\Users\DONG ANH\Desktop\moi\New folder\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\QLDL_DAL01.pdb
+C:\Users\DONG ANH\Desktop\moi\New folder\PROJECT\SOURCE CODE\HoSoDaiLyBUS\bin\Debug\QLDL_DAL01.dll.config
+C:\Users\DONG ANH\Desktop\moi\New folder\PROJECT\SOURCE CODE\HoSoDaiLyBUS\obj\Debug\QLPM_BUS.csprojAssemblyReference.cache
+C:\Users\DONG ANH\Desktop\moi\New folder\PROJECT\SOURCE CODE\HoSoDaiLyBUS\obj\Debug\QLPM_BUS.csproj.CoreCompileInputs.cache
+C:\Users\DONG ANH\Desktop\moi\New folder\PROJECT\SOURCE CODE\HoSoDaiLyBUS\obj\Debug\QLPM_BUS.csproj.CopyComplete
+C:\Users\DONG ANH\Desktop\moi\New folder\PROJECT\SOURCE CODE\HoSoDaiLyBUS\obj\Debug\HoSoDaiLyBUS.dll
+C:\Users\DONG ANH\Desktop\moi\New folder\PROJECT\SOURCE CODE\HoSoDaiLyBUS\obj\Debug\HoSoDaiLyBUS.pdb
