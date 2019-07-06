@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{08369B5E-9B43-4878-8F7A-1E49991EDE39}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>QLDL</RootNamespace>
+    <AssemblyName>QLDL</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.v18.1, Version=18.1.12.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v18.1.Core, Version=18.1.12.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v18.1, Version=18.1.12.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraEditors.v18.1, Version=18.1.12.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGauges.v18.1.Core, Version=18.1.12.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGauges.v18.1.Win, Version=18.1.12.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v18.1, Version=18.1.12.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DangNhapfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DangNhapfrm.Designer.cs">
+      <DependentUpon>DangNhapfrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QLPMtuDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLPMtuDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Quan ly\Báo Cáo\BaoCaoDoanhThufrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quan ly\Báo Cáo\BaoCaoDoanhThufrm.Designer.cs">
+      <DependentUpon>BaoCaoDoanhThufrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quan ly\Báo Cáo\BaoCaoSuDungThuocfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quan ly\Báo Cáo\BaoCaoSuDungThuocfrm.Designer.cs">
+      <DependentUpon>BaoCaoSuDungThuocfrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quan ly\QL Kham benh\Danh Sách Hóa Đơn\DanhSachHoaDonfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quan ly\QL Kham benh\Danh Sách Hóa Đơn\DanhSachHoaDonfrm.Designer.cs">
+      <DependentUpon>DanhSachHoaDonfrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quan ly\QL Kham benh\DanhSachfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quan ly\QL Kham benh\DanhSachfrm.Designer.cs">
+      <DependentUpon>DanhSachfrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quan ly\QL Kham benh\KhamBenhfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quan ly\QL Kham benh\KhamBenhfrm.Designer.cs">
+      <DependentUpon>KhamBenhfrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quan ly\QL Kham benh\Lập phiếu khám\HoaDonfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quan ly\QL Kham benh\Lập phiếu khám\HoaDonfrm.Designer.cs">
+      <DependentUpon>HoaDonfrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quan ly\QL Kham benh\Lập phiếu khám\LapPhieuKhamfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quan ly\QL Kham benh\Lập phiếu khám\LapPhieuKhamfrm.Designer.cs">
+      <DependentUpon>LapPhieuKhamfrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Quan ly\QL Thuoc\QLThuocfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quan ly\QL Thuoc\QLThuocfrm.Designer.cs">
+      <DependentUpon>QLThuocfrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quan ly\QuanLyfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quan ly\QuanLyfrm.Designer.cs">
+      <DependentUpon>QuanLyfrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quan ly\QL Kham benh\TiepNhanfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quan ly\QL Kham benh\TiepNhanfrm.Designer.cs">
+      <DependentUpon>TiepNhanfrm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="DangNhapfrm.resx">
+      <DependentUpon>DangNhapfrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quan ly\Báo Cáo\BaoCaoDoanhThufrm.resx">
+      <DependentUpon>BaoCaoDoanhThufrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quan ly\Báo Cáo\BaoCaoSuDungThuocfrm.resx">
+      <DependentUpon>BaoCaoSuDungThuocfrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quan ly\QL Kham benh\Danh Sách Hóa Đơn\DanhSachHoaDonfrm.resx">
+      <DependentUpon>DanhSachHoaDonfrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quan ly\QL Kham benh\DanhSachfrm.resx">
+      <DependentUpon>DanhSachfrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quan ly\QL Kham benh\KhamBenhfrm.resx">
+      <DependentUpon>KhamBenhfrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quan ly\QL Kham benh\Lập phiếu khám\HoaDonfrm.resx">
+      <DependentUpon>HoaDonfrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quan ly\QL Kham benh\Lập phiếu khám\LapPhieuKhamfrm.resx">
+      <DependentUpon>LapPhieuKhamfrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Quan ly\QL Thuoc\QLThuocfrm.resx">
+      <DependentUpon>QLThuocfrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quan ly\QuanLyfrm.resx">
+      <DependentUpon>QuanLyfrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quan ly\QL Kham benh\TiepNhanfrm.resx">
+      <DependentUpon>TiepNhanfrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="QLPMtuDataSet.xsc">
+      <DependentUpon>QLPMtuDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="QLPMtuDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLPMtuDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLPMtuDataSet.xss">
+      <DependentUpon>QLPMtuDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HoSoDaiLyBUS\QLPM_BUS.csproj">
+      <Project>{dbf725d2-ce9e-4438-abb1-dd048434450f}</Project>
+      <Name>QLPM_BUS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HoSoDaiLyDTO\QLPM_DTO.csproj">
+      <Project>{98e4dae5-a018-4211-903a-aeb1fdf907f4}</Project>
+      <Name>QLPM_DTO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

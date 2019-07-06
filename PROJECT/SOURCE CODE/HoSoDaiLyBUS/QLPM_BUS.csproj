@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DBF725D2-CE9E-4438-ABB1-DD048434450F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>HoSoDaiLyBUS</RootNamespace>
+    <AssemblyName>HoSoDaiLyBUS</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="obj\Debug\build.force" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="obj\Debug\HoSoDaiLyBUS.csproj.CopyComplete" />
+    <None Include="obj\Debug\HoSoDaiLyBUS.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\HoSoDaiLyBUS.csprojAssemblyReference.cache" />
+    <None Include="obj\Debug\QLDLBUS.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\QLDL_BUS.csproj.CopyComplete" />
+    <None Include="obj\Debug\QLDL_BUS.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\QLDL_BUS.csprojAssemblyReference.cache" />
+    <None Include="obj\Debug\QLPM_BUS.csproj.CopyComplete" />
+    <None Include="obj\Debug\QLPM_BUS.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\QLPM_BUS.csprojAssemblyReference.cache" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BenhBUS.cs" />
+    <Compile Include="BenhNhanBUS.cs" />
+    <Compile Include="CachDungBUS.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <Compile Include="pDoanhThuBUS.cs" />
+    <Compile Include="PhieuKhamBenhBUS.cs" />
+    <Compile Include="PhieuBaoCaoSuDungThuocBUS.cs" />
+    <Compile Include="ThuocBUS.cs" />
+    <Compile Include="TienKhamBUS.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HoSoDaiLyDTO\QLPM_DTO.csproj">
+      <Project>{98e4dae5-a018-4211-903a-aeb1fdf907f4}</Project>
+      <Name>QLPM_DTO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\QLDL_DAL01\QLPM_DAL.csproj">
+      <Project>{4af76884-8292-437e-a990-35c490b11ff5}</Project>
+      <Name>QLPM_DAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="obj\Debug\HoSoDaiLyBUS.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\HoSoDaiLyBUS.dll" />
+    <Content Include="obj\Debug\HoSoDaiLyBUS.pdb" />
+    <Content Include="obj\Debug\QLDL_BUS.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\QLPM_BUS.csproj.FileListAbsolute.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="obj\Debug\TempPE\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System.Data" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
